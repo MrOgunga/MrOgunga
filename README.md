@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate with **other great Software Engineers**
 
-- 📝 I regularly write articles on [https://twitter.com/davidinmichael](https://twitter.com/davidinmichael)
+- 📝 I regularly write articles on [https://twitter.com/Taiyelolu_mi](https://twitter.com/Taiyelolu_mi)
 
 - 💬 Ask me about **Git, Github, HTML, CSS, C, Emacs, VI and Linux**
 
 - 📫 How to reach me **itaryie@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16kl6ObjaBOuKWOcVphQhfGUyGKr36e47/view?usp=drivesdk](https://drive.google.com/file/d/16kl6ObjaBOuKWOcVphQhfGUyGKr36e47/view?usp=drivesdk)
+- 📄 Know about my experiences : [PROFILE](https://drive.google.com/drive/folders/1vK8sqMbFSkwHl3VhUiNvehGMsnLJKCdQ)
 
 - ⚡ Fun fact **I love codes so much that if you talk to me about code; you win my heart.**
 
@@ -33,15 +33,11 @@
 <p align="left">
 <a href="https://www.behance.net/iamogunga" target="blank"><img align="center" src="https://thumbs.dreamstime.com/b/behance-icon-logo-beautiful-meticulously-designed-225149192.jpg"
 alt="MrOgunga" height="30" width="40" /></a>
-
 <a href="https://twitter.com/Taiyelolu_mi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Taiyelolu_mi" height="30" width="40" /></a>
-
 <a href="https://stackoverflow.com/users/mrogunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mrogunga" height="30" width="40" /></a>
-
 <a href="https://fb.com/IAMOGUNGA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david michael" height="30" width="40" /></a>
-
 <a href="https://www.instagram.com/mr.og________/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MrOgunga" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/davidinmichael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="davidinmichael" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/davidinmichael](https://www.youtube.com/results?search_query=thebrandnerve)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="davidinmichael" height="30" width="40" /></a>
 <a href="/https://twitter.com/davidmichael_in?t=rii6ga_bxaa7z2taqlazpa&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://twitter.com/davidmichael_in?t=rii6ga_bxaa7z2taqlazpa&s=08" height="30" width="40" /></a>
 </p>
 
