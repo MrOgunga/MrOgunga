@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-<a href="https://tayeportfolio.com/" target="_blank">Visit My Portfolio</a>
+<a href="https://tayeportfolio.com/" target="_blank" rel="noopener noreferrer">
+  Visit My Portfolio
+</a>
 </p>
 
 ---
