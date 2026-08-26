@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/Taiyelolu_mi" target="_blank"><img src="https://img.shields.io/twitter/follow/Taiyelolu_mi?logo=twitter&style=for-the-badge" alt="follow on twitter" /></a>
+<a href="[tayewo.com](https://tayeportfolio.com/)" target="_blank"></a>
 </p>
 
 ---
